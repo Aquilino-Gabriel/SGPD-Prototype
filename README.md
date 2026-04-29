@@ -44,5 +44,12 @@ Realizei testes reais com utilizadores para identificar gargalos de navegação.
 
 ---
 
+### 📺 Demonstração do Fluxo
+Confira o vídeo abaixo apresentando os dois fluxos principais (Solicitante e Analista) e a implementação das melhorias de usabilidade:
+
+👉 [**Assistir demonstração do SGPD**](https://github.com/Aquilino-Gabriel/SGPD-Prototype/blob/main/PrototipoSistemaSGPD.mp4)
+
+---
+
 ## 👨‍💻 Autor
 **Gabriel Dos Santos Aquilino** Estudante de ADS @ Unipê | Aspirante a Software Engineer & UX Designer
